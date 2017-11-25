@@ -1,8 +1,8 @@
 # Constructors-Hangman
 
-##Hangman command-line game using constructor functions.
+## Hangman command-line game using constructor functions.
 
-#Instructions
+# Instructions
 
 * The completed game should meet the following criteria:
 * The completed game should be able to receive user input using the inquirer or prompt npm packages.
