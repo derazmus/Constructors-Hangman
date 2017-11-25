@@ -1,6 +1,6 @@
 # Constructors-Hangman
 
-## Hangman command-line game using constructor functions.
+* Hangman command-line game using constructor functions.
 
 # Instructions
 
