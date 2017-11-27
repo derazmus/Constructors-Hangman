@@ -12,6 +12,13 @@
 *	Each constructor function should be in it's own file and be exported and required wherever needed.
 *	Look into function prototypes and use them for a few of your constructor's methods.
 
+# Programs used
+
+* javascript
+* jQuery
+* node.js
+* npm
+
 # NPM packages used
 
 * Inquirer
